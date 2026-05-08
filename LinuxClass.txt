@@ -1,0 +1,39 @@
+CREATING A FILE IN LINUX
+
+- touch note.txt
+
+Hidden FILE
+
+- touch .meow.doc
+
+
+CREATING A FOLDER IN LINUX
+- mkdir
+
+DELETING
+- rm note.txt
+rmdir - deleted emptty FOLDER
+rm-r = delete folder and content
+
+COPY
+- cp note.txt project/
+
+MOVING A FILE
+ mv note.txt project/
+
+ USING MOVE TO rename A FILE
+ mv old.txt new.txt
+
+cd Desktop
+                                                                                                                                            
+
+
+Viev files
+1. cat note.txt
+2. less note.txt 
+3. cat -n note.txt to number the lines
+
+
+HEAD & TAIL
+head note.txt brings first 10 lines
+tail note.txt brings last 10 lines
