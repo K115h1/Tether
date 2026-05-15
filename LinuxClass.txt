@@ -25,7 +25,6 @@ MOVING A FILE
  mv old.txt new.txt
 
 cd Desktop
-                                                                                                                                            
 
 
 Viev files
@@ -37,3 +36,23 @@ Viev files
 HEAD & TAIL
 head note.txt brings first 10 lines
 tail note.txt brings last 10 lines
+
+
+CREATING A USER
+From the root user in command prompt, 
+ sudo useradd username
+ eg. 
+  sudo useradd John
+  sudo useradd kiishi
+and enter your password
+
+To add a password, use the command;
+sudo passwd kiishi
+Enter new password
+Repat new password
+
+To switch users, use command
+su username
+
+
+

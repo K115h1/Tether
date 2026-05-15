@@ -186,8 +186,8 @@ const Landing = () => {
             </section>
 
             {/* ── BELOW THE FOLD (visible after hero unpins) ───────────── */}
-            <HowItWorks />
             <Features />
+            <HowItWorks />
             <CTASection />
 
             {/* Footer */}
